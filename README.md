@@ -1,6 +1,5 @@
 # Front--end
 
-```markdown
 # Front-End Projects
 
 ## Description
